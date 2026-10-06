@@ -12,7 +12,7 @@ Matheus Alves da Silva
 Turma: Manha
 Grupo: 10
 Link do video:
-[# Projeto-quiz-em-C-Aula-8](https://youtu.be/02niI4DCXBk?si=s6LALKnYblWPg1wb)
+https://youtu.be/02niI4DCXBk?si=s6LALKnYblWPg1wb
 
 Funcionalidades
 1- Cadastrar pergunta
