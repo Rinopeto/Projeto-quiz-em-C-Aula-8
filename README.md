@@ -1,7 +1,6 @@
 Gerenciador de Perguntas - Quiz de TI
 
-Programa em C, executado no terminal, para gerenciar o banco de perguntas de um futuro quiz de orientação sobre os cursos de CC (Ciência da Computação), ES (Engenharia de Software) e ADS (Análise e Desenvolvimento de Sistemas). Nesta etapa não há aplicação do quiz, apenas o cadastro e a organização das perguntas.
-
+Programa em C, executado no terminal, para gerenciar o banco de perguntas de um quiz de orientação sobre os cursos de CC (Ciência da Computação), ES (Engenharia de Software) e ADS (Análise e Desenvolvimento de Sistemas). Nesta etapa não há aplicação do quiz, apenas o cadastro e a organização das perguntas.
 
 Integrantes:
 Bruno Seiti Ota
