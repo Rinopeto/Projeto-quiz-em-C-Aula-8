@@ -1,0 +1,15 @@
+1;Voce gosta de estudar algoritmos e a teoria por tras dos computadores?;Raciocinio;CC;SIM
+2;Voce se interessa por entender como a CPU e a memoria funcionam internamente?;Hardware;CC;SIM
+3;Voce tem facilidade com conceitos matematicos abstratos e calculo?;Matematica;CC;SIM
+4;Voce gostaria de trabalhar com inteligencia artificial e aprendizado de maquina?;Pesquisa;CC;SIM
+5;Voce prefere focar apenas no design visual de sites sem programar o sistema?;Pratica;CC;NAO
+6;Voce se ve gerenciando equipes e cronogramas de desenvolvimento de software?;Projetos;ES;SIM
+7;Voce acha importante realizar testes rigorosos antes de lançar um aplicativo?;Qualidade;ES;SIM
+8;Voce gostaria de aprender metodologias agil como Scrum e Kanban?;Processos;ES;SIM
+9;Voce se interessa por desenhar a estrutura e o fluxo de grandes sistemas?;Arquitetura;ES;SIM
+10;Voce prefere trabalhar sozinho sem precisar documentar o que desenvolve?;Rotina;ES;NAO
+11;Voce busca uma formacao mais rapida e focada nas demandas diretas do mercado?;Aprendizagem;ADS;SIM
+12;Voce quer criar sistemas web e aplicacoes para dispositivos moveis?;Web;ADS;SIM
+13;Voce gostaria de aprender a estruturar e consultar bancos de dados SQL?;Banco de Dados;ADS;SIM
+14;Voce prefere aulas com foco em projetos praticos desde os primeiros semestres?;Pratica;ADS;SIM
+15;Voce prefere estudar teorias complexas antes de começar a programar na pratica?;Teoria;ADS;NAO
