@@ -4,7 +4,7 @@ Programa em C, executado no terminal, para gerenciar o banco de perguntas de um 
 
 
 Integrantes:
-Bruno Seiti Ota 
+Bruno Seiti Ota
 Eduardo Elioterio de Oliveira
 Enrico Monteiro de Andrade 
 Gabriel Tavares Moura Dias 
